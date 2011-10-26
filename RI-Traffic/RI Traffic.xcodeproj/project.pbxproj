@@ -1,0 +1,329 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1F0DDCD913A2BEBA005947F0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F0DDCD813A2BEBA005947F0 /* UIKit.framework */; };
+		1F0DDCDB13A2BEBA005947F0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F0DDCDA13A2BEBA005947F0 /* Foundation.framework */; };
+		1F0DDCDD13A2BEBA005947F0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F0DDCDC13A2BEBA005947F0 /* CoreGraphics.framework */; };
+		1F0DDCE313A2BEBA005947F0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1F0DDCE113A2BEBA005947F0 /* InfoPlist.strings */; };
+		1F0DDCE613A2BEBA005947F0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0DDCE513A2BEBA005947F0 /* main.m */; };
+		1F0DDCE913A2BEBA005947F0 /* RI_TrafficAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0DDCE813A2BEBA005947F0 /* RI_TrafficAppDelegate.m */; };
+		1F0DDCEC13A2BEBA005947F0 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F0DDCEA13A2BEBA005947F0 /* MainWindow.xib */; };
+		1F0DDCF413A2BED2005947F0 /* RSStateObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0DDCF313A2BED2005947F0 /* RSStateObj.m */; };
+		1F0DDCF713A2BEE2005947F0 /* StateRI.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0DDCF613A2BEE2005947F0 /* StateRI.m */; };
+		1F0DDCFB13A2BF17005947F0 /* Camera.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0DDCFA13A2BF17005947F0 /* Camera.m */; };
+		1F0DDCFE13A2C415005947F0 /* MainMap.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0DDCFD13A2C414005947F0 /* MainMap.m */; };
+		1F0DDD0013A2C44A005947F0 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F0DDCFF13A2C44A005947F0 /* CoreLocation.framework */; };
+		1F0DDD0213A2C45E005947F0 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F0DDD0113A2C45E005947F0 /* MapKit.framework */; };
+		1F681FEA13A959C6009A12F3 /* CameraView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F681FE913A959C6009A12F3 /* CameraView.m */; };
+		1FC191D213B68250007F0A12 /* MainTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FC191D113B68250007F0A12 /* MainTable.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1F0DDCD413A2BEBA005947F0 /* RI Traffic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RI Traffic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F0DDCD813A2BEBA005947F0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1F0DDCDA13A2BEBA005947F0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1F0DDCDC13A2BEBA005947F0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1F0DDCE013A2BEBA005947F0 /* RI Traffic-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RI Traffic-Info.plist"; sourceTree = "<group>"; };
+		1F0DDCE213A2BEBA005947F0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1F0DDCE413A2BEBA005947F0 /* RI Traffic-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RI Traffic-Prefix.pch"; sourceTree = "<group>"; };
+		1F0DDCE513A2BEBA005947F0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1F0DDCE713A2BEBA005947F0 /* RI_TrafficAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RI_TrafficAppDelegate.h; sourceTree = "<group>"; };
+		1F0DDCE813A2BEBA005947F0 /* RI_TrafficAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RI_TrafficAppDelegate.m; sourceTree = "<group>"; };
+		1F0DDCEB13A2BEBA005947F0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		1F0DDCF213A2BED2005947F0 /* RSStateObj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RSStateObj.h; sourceTree = "<group>"; };
+		1F0DDCF313A2BED2005947F0 /* RSStateObj.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RSStateObj.m; sourceTree = "<group>"; };
+		1F0DDCF513A2BEE2005947F0 /* StateRI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StateRI.h; sourceTree = "<group>"; };
+		1F0DDCF613A2BEE2005947F0 /* StateRI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StateRI.m; sourceTree = "<group>"; };
+		1F0DDCF913A2BF17005947F0 /* Camera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Camera.h; sourceTree = "<group>"; };
+		1F0DDCFA13A2BF17005947F0 /* Camera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Camera.m; sourceTree = "<group>"; };
+		1F0DDCFC13A2C414005947F0 /* MainMap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMap.h; sourceTree = "<group>"; };
+		1F0DDCFD13A2C414005947F0 /* MainMap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMap.m; sourceTree = "<group>"; };
+		1F0DDCFF13A2C44A005947F0 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		1F0DDD0113A2C45E005947F0 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		1F681FE813A959C6009A12F3 /* CameraView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraView.h; sourceTree = "<group>"; };
+		1F681FE913A959C6009A12F3 /* CameraView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraView.m; sourceTree = "<group>"; };
+		1FC191D013B68250007F0A12 /* MainTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTable.h; sourceTree = "<group>"; };
+		1FC191D113B68250007F0A12 /* MainTable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTable.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1F0DDCD113A2BEBA005947F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F0DDD0213A2C45E005947F0 /* MapKit.framework in Frameworks */,
+				1F0DDD0013A2C44A005947F0 /* CoreLocation.framework in Frameworks */,
+				1F0DDCD913A2BEBA005947F0 /* UIKit.framework in Frameworks */,
+				1F0DDCDB13A2BEBA005947F0 /* Foundation.framework in Frameworks */,
+				1F0DDCDD13A2BEBA005947F0 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1F0DDCC913A2BEBA005947F0 = {
+			isa = PBXGroup;
+			children = (
+				1F0DDCDE13A2BEBA005947F0 /* RI Traffic */,
+				1F0DDCD713A2BEBA005947F0 /* Frameworks */,
+				1F0DDCD513A2BEBA005947F0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1F0DDCD513A2BEBA005947F0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1F0DDCD413A2BEBA005947F0 /* RI Traffic.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1F0DDCD713A2BEBA005947F0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1F0DDD0113A2C45E005947F0 /* MapKit.framework */,
+				1F0DDCFF13A2C44A005947F0 /* CoreLocation.framework */,
+				1F0DDCD813A2BEBA005947F0 /* UIKit.framework */,
+				1F0DDCDA13A2BEBA005947F0 /* Foundation.framework */,
+				1F0DDCDC13A2BEBA005947F0 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1F0DDCDE13A2BEBA005947F0 /* RI Traffic */ = {
+			isa = PBXGroup;
+			children = (
+				1F0DDCE713A2BEBA005947F0 /* RI_TrafficAppDelegate.h */,
+				1F0DDCE813A2BEBA005947F0 /* RI_TrafficAppDelegate.m */,
+				1FC191CE13B68236007F0A12 /* Content Ideas */,
+				1F681FE813A959C6009A12F3 /* CameraView.h */,
+				1F681FE913A959C6009A12F3 /* CameraView.m */,
+				1F0DDCF813A2BEFD005947F0 /* States */,
+				1F0DDCEA13A2BEBA005947F0 /* MainWindow.xib */,
+				1F0DDCDF13A2BEBA005947F0 /* Supporting Files */,
+			);
+			path = "RI Traffic";
+			sourceTree = "<group>";
+		};
+		1F0DDCDF13A2BEBA005947F0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1F0DDCE013A2BEBA005947F0 /* RI Traffic-Info.plist */,
+				1F0DDCE113A2BEBA005947F0 /* InfoPlist.strings */,
+				1F0DDCE413A2BEBA005947F0 /* RI Traffic-Prefix.pch */,
+				1F0DDCE513A2BEBA005947F0 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1F0DDCF813A2BEFD005947F0 /* States */ = {
+			isa = PBXGroup;
+			children = (
+				1F0DDCF913A2BF17005947F0 /* Camera.h */,
+				1F0DDCFA13A2BF17005947F0 /* Camera.m */,
+				1F0DDCF213A2BED2005947F0 /* RSStateObj.h */,
+				1F0DDCF313A2BED2005947F0 /* RSStateObj.m */,
+				1F0DDCF513A2BEE2005947F0 /* StateRI.h */,
+				1F0DDCF613A2BEE2005947F0 /* StateRI.m */,
+			);
+			name = States;
+			sourceTree = "<group>";
+		};
+		1FC191CE13B68236007F0A12 /* Content Ideas */ = {
+			isa = PBXGroup;
+			children = (
+				1F0DDCFC13A2C414005947F0 /* MainMap.h */,
+				1F0DDCFD13A2C414005947F0 /* MainMap.m */,
+				1FC191D013B68250007F0A12 /* MainTable.h */,
+				1FC191D113B68250007F0A12 /* MainTable.m */,
+			);
+			name = "Content Ideas";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1F0DDCD313A2BEBA005947F0 /* RI Traffic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1F0DDCEF13A2BEBA005947F0 /* Build configuration list for PBXNativeTarget "RI Traffic" */;
+			buildPhases = (
+				1F0DDCD013A2BEBA005947F0 /* Sources */,
+				1F0DDCD113A2BEBA005947F0 /* Frameworks */,
+				1F0DDCD213A2BEBA005947F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "RI Traffic";
+			productName = "RI Traffic";
+			productReference = 1F0DDCD413A2BEBA005947F0 /* RI Traffic.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1F0DDCCB13A2BEBA005947F0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "Freelance Web Developer";
+			};
+			buildConfigurationList = 1F0DDCCE13A2BEBA005947F0 /* Build configuration list for PBXProject "RI Traffic" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1F0DDCC913A2BEBA005947F0;
+			productRefGroup = 1F0DDCD513A2BEBA005947F0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1F0DDCD313A2BEBA005947F0 /* RI Traffic */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1F0DDCD213A2BEBA005947F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F0DDCE313A2BEBA005947F0 /* InfoPlist.strings in Resources */,
+				1F0DDCEC13A2BEBA005947F0 /* MainWindow.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1F0DDCD013A2BEBA005947F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F0DDCE613A2BEBA005947F0 /* main.m in Sources */,
+				1F0DDCE913A2BEBA005947F0 /* RI_TrafficAppDelegate.m in Sources */,
+				1F0DDCF413A2BED2005947F0 /* RSStateObj.m in Sources */,
+				1F0DDCF713A2BEE2005947F0 /* StateRI.m in Sources */,
+				1F0DDCFB13A2BF17005947F0 /* Camera.m in Sources */,
+				1F0DDCFE13A2C415005947F0 /* MainMap.m in Sources */,
+				1F681FEA13A959C6009A12F3 /* CameraView.m in Sources */,
+				1FC191D213B68250007F0A12 /* MainTable.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1F0DDCE113A2BEBA005947F0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1F0DDCE213A2BEBA005947F0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1F0DDCEA13A2BEBA005947F0 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1F0DDCEB13A2BEBA005947F0 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1F0DDCED13A2BEBA005947F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1F0DDCEE13A2BEBA005947F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		1F0DDCF013A2BEBA005947F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RI Traffic/RI Traffic-Prefix.pch";
+				INFOPLIST_FILE = "RI Traffic/RI Traffic-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		1F0DDCF113A2BEBA005947F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RI Traffic/RI Traffic-Prefix.pch";
+				INFOPLIST_FILE = "RI Traffic/RI Traffic-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1F0DDCCE13A2BEBA005947F0 /* Build configuration list for PBXProject "RI Traffic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1F0DDCED13A2BEBA005947F0 /* Debug */,
+				1F0DDCEE13A2BEBA005947F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1F0DDCEF13A2BEBA005947F0 /* Build configuration list for PBXNativeTarget "RI Traffic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1F0DDCF013A2BEBA005947F0 /* Debug */,
+				1F0DDCF113A2BEBA005947F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1F0DDCCB13A2BEBA005947F0 /* Project object */;
+}

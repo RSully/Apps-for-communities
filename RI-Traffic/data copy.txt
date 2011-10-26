@@ -1,0 +1,134 @@
+
+64,Route 116 and I-295
+67,Route 44 and Route 5
+59,Route 44 and I-295
+83,I-295 and Route 44
+79,I-295 S and Route 6
+78,I-295 N and Exit 6
+84,I-295 N before Exit 10
+50,Route 146 and Route 116
+63,Route 146 and I-295
+52,Route 146N and Route 146A
+62,Route 146S and Route 146A
+92,Route 6 bypass and Route 101
+104,Route 146N before Great Rd
+
+
+63,Route 146 and I-295
+52,Route 146N and Route 146A
+62,Route 146S and Route 146A
+23,I-95 and School St.
+24,I-95 and Broadway
+25,I-95 and East St.
+50,Route 146 and Route 116
+84,I-295 N before Exit 10
+64,Route 116 and I-295
+59,Route 44 and I-295
+83,I-295 and Route 44
+67,Route 44 and Route 5
+89,Route 146 S and Branch
+90,95 N and Lonsdale
+91,95 S and Garden St
+48,DMS Route 146
+
+
+103,Route 4 and Frenchtown Rd.
+77,I-95 and Cowesett Rd. DMS
+56,Airport Connector
+61,I-95 SB and Exit 5 DMS
+55,Route 2 and Metlife
+51,Route 37 and I-295
+53,Route 1 and East Greenwich
+43,DMS I-95 SB Laurens St.
+1,I-95 and Route 10
+26,Route 402
+27,Route 403
+40,Route 2 and I-295
+39,Route 117
+49,I-95: Cell Tower
+69,Jefferson Blvd
+68,Service Ave
+71,Route 4 and Middle Rd
+86,Route 5 and Phenix Ave
+
+
+97,Route 24 and Main Rd.
+82,Route 114 and Mink St.
+65,Portsmouth Maintenance Facility
+66,Route 24 Sakonnet River Bridge
+57,JT Connell and Girard Rd. (Newport)
+45,Jamestown Bridge (Jamestown)
+38,Route 136
+37,Route 114
+72,Admiral Kalbfus Rd
+87,Route 138 and Route 138A
+88,Route 138 and Route 214
+93,Route 136 and Market St
+94,Route 114 and Evergreen St
+
+
+82,Route 114 and Mink St.
+30,Promenade and Dean
+29,Providence Place Mall
+54,Mineral Spring Ave.
+28,Memorial and Steeple
+48,DMS Route 146
+42,DMS I-95 NB and Smithfield Ave.
+11,I-95 and Branch
+10,I-95 and Orms
+31,Department of Health Building
+9,I-95 and Kinsley
+8,I-95 and Broadway
+22,Route 10/6 and Dean
+7,I-95 and Broad
+12,I-195 and Chestnut
+6,I-95 and Friendship
+5,I-95 and Public
+105,I-95 and Eddy
+106,I-195 and India
+4,I-95 and Thurbers
+3,I-95 and Detroit
+2,I-95 and Elmwood
+1,I-95 and Route 10
+13,I-195 and Point St.
+14,I-195 and Gano St.
+15,I-195 Washington Bridge
+21,Route 6/10 Tobey
+20,Route 10 and 6
+19,Route 10 and Union
+18,Route 10 and Kenwood
+17,Route 10 and Resevoir
+74,North Main St. and Doyle Ave.
+73,North Main St. and Branch Ave.
+75,Allens Ave. DPW
+76,Route 6 DMS
+46,DMS Route I-195
+16,I-195 and 114
+80,Route 6 and Glenbridge Ave.
+81,Route 6 and Hartford Ave.
+79,I-295 S and Route 6
+78,I-295 N and Route 6
+86,Route 5 and Phenix Ave
+85,Route 6 and Atwood
+89,Route 146 S and Branch
+
+
+96,Route 4 and Oak Hill Rd.
+60,I-95 NB and CT state line DMS
+44,Jamestown Bridge (N. Kingstown)
+45,Jamestown Bridge (Jamestown)
+47,DMS Route 4
+27,Route 1 and Route 403
+36,Route 4 and West Allenton Rd
+34,Route 1 and Route 138 (S. Kingstown)
+35,Route 1 and Route 4
+32,Route 1 and Route 78
+41,Route 1 and Saugatucket Rd.
+33,Government Center
+70,Route 138 and Route 1A
+61,I-95 SB and Exit 5 DMS
+58,Route 1 and Route 138 (N. Kingstown)
+95,Route 1 and Camp Fuller Rd
+98,95 S and Exit 1
+99,95 S and Exit 2
+101,95 S and Exit 4

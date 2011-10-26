@@ -1,0 +1,134 @@
+<!--northwest-->
+<area onclick="clearTimeout(timeOut);changeCam(64, this.alt)" shape="CIRCLE" alt="RT 116 @ I-295" coords="405,173,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(67, this.alt)" shape="CIRCLE" alt="Route 44 @ Route 5" coords="373,262,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(59, this.alt)" shape="CIRCLE" alt="Rte 44 @ I-295" coords="395,259,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(83, this.alt)" shape="CIRCLE" alt="I-295 @ Rte 44" coords="390,269,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(79, this.alt)" shape="CIRCLE" alt="I-295 S @ Route 6" coords="395,332,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(78, this.alt)" shape="CIRCLE" alt="I-295 N @ Exit 6" coords="396,351,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(84, this.alt)" shape="CIRCLE" alt="I-295 N before Exit 10" coords="475,147,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(50, this.alt)" shape="CIRCLE" alt="Rte 146 @ Rte 116" coords="451,157,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(63, this.alt)" shape="CIRCLE" alt="RT 146 @ I-295" coords="440,144,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(52, this.alt)" shape="CIRCLE" alt="Rte 146N @ Rte 146A" coords="408,104,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(62, this.alt)" shape="CIRCLE" alt="Rte 146S @ Rte 146A" coords="390,95,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(92, this.alt)" shape="CIRCLE" alt="Rte 6 bypass @ Rte 101" coords="272,313,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(104, this.alt)" shape="CIRCLE" alt="Rte 146N before Great Rd" coords="342,54,10" href="#">
+
+<!--blackstone-->
+<area onclick="clearTimeout(timeOut);changeCam(63, this.alt)" shape="CIRCLE" alt="RT 146 @ I-295" coords="261,216,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(52, this.alt)" shape="CIRCLE" alt="Rte 146N @ Rte 146A" coords="214,158,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(62, this.alt)" shape="CIRCLE" alt="Rte 146S @ Rte 146A" coords="186,142,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(23, this.alt)" shape="CIRCLE" alt="I-95 @ School St." coords="424,379,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(24, this.alt)" shape="CIRCLE" alt="I-95 @ Broadway" coords="431,368,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(25, this.alt)" shape="CIRCLE" alt="I-95 @ East St." coords="433,333,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(50, this.alt)" shape="CIRCLE" alt="Rte 146 @ Rte 116" coords="275,232,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(84, this.alt)" shape="CIRCLE" alt="I-295 N before Exit 10" coords="308,218,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(64, this.alt)" shape="CIRCLE" alt="RT 116 @ I-295" coords="209,257,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(59, this.alt)" shape="CIRCLE" alt="Rte 44 @ I-295" coords="192,382,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(83, this.alt)" shape="CIRCLE" alt="I-295 @ Rte 44" coords="188,393,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(67, this.alt)" shape="CIRCLE" alt="Route 44 @ Route 5" coords="171,386,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(89, this.alt)" shape="CIRCLE" alt="Rte 146 S @ Branch" coords="347,429,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(90, this.alt)" shape="CIRCLE" alt="95 N @ Lonsdale" coords="392,391,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(91, this.alt)" shape="CIRCLE" alt="95 S @ Garden St" coords="410,381,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(48, this.alt)" shape="CIRCLE" alt="DMS Rt. 146" coords="343,413,10" href="#">
+
+<!--west Bay-->
+<area onclick="clearTimeout(timeOut);changeCam(103, this.alt)" shape="CIRCLE" alt="Rte 4 @ Frenchtown Rd." coords="428,360,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(77, this.alt)" shape="CIRCLE" alt="I-95 @ Cowesett Rd. DMS" coords="442,258,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(56, this.alt)" shape="CIRCLE" alt="Airport Connector" coords="485,186,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(61, this.alt)" shape="CIRCLE" alt="I-95 SB @ Exit 5 DMS" coords="199,393,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(55, this.alt)" shape="CIRCLE" alt="Rte 2 @ Metlife" coords="410,262,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(51, this.alt)" shape="CIRCLE" alt="Rte 37 @ I-295" coords="434,129,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(53, this.alt)" shape="CIRCLE" alt="Rte 1 @ East Greenwich" coords="475,304,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(43, this.alt)" shape="CIRCLE" alt="DMS I-95 SB Laurens St." coords="504,108,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(1, this.alt)" shape="CIRCLE" alt="I-95 @ Rt. 10" coords="511,82,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(26, this.alt)" shape="CIRCLE" alt="Route 402" coords="454,351,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(27, this.alt)" shape="CIRCLE" alt="Route 403" coords="472,403,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(40, this.alt)" shape="CIRCLE" alt="Route 2 @ I-295" coords="436,187,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(39, this.alt)" shape="CIRCLE" alt="Route 117" coords="442,258,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(49, this.alt)" shape="CIRCLE" alt="I-95: Cell Tower" coords="437,283,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(69, this.alt)" shape="CIRCLE" alt="Jefferson Blvd" coords="494,132,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(68, this.alt)" shape="CIRCLE" alt="Service Ave" coords="479,161,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(71, this.alt)" shape="CIRCLE" alt="Route 4 @ Middle Rd" coords="425,332,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(86, this.alt)" shape="CIRCLE" alt="Rte 5 @ Phenix Ave" coords="447,83,10" href="#">
+
+<!--East Bay-->
+<area onclick="clearTimeout(timeOut);changeCam(97, this.alt)" shape="CIRCLE" alt="Route 24 @ Main Rd." coords="434,191,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(82, this.alt)" shape="CIRCLE" alt="Route 114 @ Mink St." coords="299,5,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(65, this.alt)" shape="CIRCLE" alt="Portsmouth Maintenance Facility" coords="402,200,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(66, this.alt)" shape="CIRCLE" alt="Route 24 Sakonnet River Bridge" coords="416,196,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(57, this.alt)" shape="CIRCLE" alt="JT Connell @ Girard Rd. (Newport)" coords="309,376,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(45, this.alt)" shape="CIRCLE" alt="Jamestown Bridge (Jamestown)" coords="225,362,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(38, this.alt)" shape="CIRCLE" alt="Route 136" coords="367,177,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(37, this.alt)" shape="CIRCLE" alt="Route 114" coords="332,354,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(72, this.alt)" shape="CIRCLE" alt="Admiral Kalbfus Rd" coords="310,391,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(87, this.alt)" shape="CIRCLE" alt="Rte 138 @ Rte 138A" coords="346,368,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(88, this.alt)" shape="CIRCLE" alt="Rte 138 @ Rte 214" coords="335,373,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(93, this.alt)" shape="CIRCLE" alt="Rte 136 @ Market St" coords="352,52,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(94, this.alt)" shape="CIRCLE" alt="Rte 114 @ Evergreen St" coords="324,383,10" href="#">
+
+<!--metro-->
+<area onclick="clearTimeout(timeOut);changeCam(82, this.alt)" shape="CIRCLE" alt="Route 114 @ Mink St." coords="593,352,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(30, this.alt)" shape="CIRCLE" alt="Promenade @ Dean" coords="295,178,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(29, this.alt)" shape="CIRCLE" alt="Providence Place Mall" coords="326,178,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(54, this.alt)" shape="CIRCLE" alt="Mineral Spring Ave." coords="207,32,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(28, this.alt)" shape="CIRCLE" alt="Memorial @ Steeple" coords="331,168,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(48, this.alt)" shape="CIRCLE" alt="DMS Rt. 146" coords="287,59,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(42, this.alt)" shape="CIRCLE" alt="DMS I-95 NB @ Smithfield Ave." coords="353,67,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(11, this.alt)" shape="CIRCLE" alt="I-95 @ Branch" coords="341,106,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(10, this.alt)" shape="CIRCLE" alt="I-95 @ Orms" coords="327,154,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(31, this.alt)" shape="CIRCLE" alt="Department of Health Building" coords="343,164,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(9, this.alt)" shape="CIRCLE" alt="I-95 @ Kinsley" coords="317,187,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(8, this.alt)" shape="CIRCLE" alt="I-95 @ Broadway" coords="313,209,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(22, this.alt)" shape="CIRCLE" alt="Route 10/6 @ Dean" coords="294,193,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(7, this.alt)" shape="CIRCLE" alt="I-95 @ Broad" coords="324,228,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(12, this.alt)" shape="CIRCLE" alt="I-195 @ Chestnut" coords="341,223,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(6, this.alt)" shape="CIRCLE" alt="I-95 @ Friendship" coords="332,235,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(5, this.alt)" shape="CIRCLE" alt="I-95 @ Public" coords="362,273,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(105, this.alt)" shape="CIRCLE" alt="I-95 @ Eddy" coords="356,252,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(106, this.alt)" shape="CIRCLE" alt="I-195 @ India" coords="378,238,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(4, this.alt)" shape="CIRCLE" alt="I-95 @ Thurbers" coords="368,301,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(3, this.alt)" shape="CIRCLE" alt="I-95 @ Detroit" coords="340,331,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(2, this.alt)" shape="CIRCLE" alt="I-95 @ Elmwood" coords="312,358,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(1, this.alt)" shape="CIRCLE" alt="I-95 @ Rte 10" coords="300,381,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(13, this.alt)" shape="CIRCLE" alt="I-195 @ Point St." coords="378,225,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(14, this.alt)" shape="CIRCLE" alt="I-195 @ Gano St." coords="411,223,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(15, this.alt)" shape="CIRCLE" alt="I-195 Washington Bridge" coords="427,223,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(21, this.alt)" shape="CIRCLE" alt="Route 6/10 Tobey" coords="272,199,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(20, this.alt)" shape="CIRCLE" alt="Route 10 @ 6" coords="250,243,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(19, this.alt)" shape="CIRCLE" alt="Route 10 @ Union" coords="245,267,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(18, this.alt)" shape="CIRCLE" alt="Route 10 @ Kenwood" coords="247,318,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(17, this.alt)" shape="CIRCLE" alt="Route 10 @ Resevoir" coords="266,361,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(74, this.alt)" shape="CIRCLE" alt="North Main St. @ Doyle Ave." coords="349,140,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(73, this.alt)" shape="CIRCLE" alt="North Main St. @ Branch Ave." coords="353,123,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(75, this.alt)" shape="CIRCLE" alt="Allens Ave. DPW" coords="389,337,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(76, this.alt)" shape="CIRCLE" alt="Route 6 DMS" coords="207,214,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(46, this.alt)" shape="CIRCLE" alt="DMS Rt. I-195" coords="562,269,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(16, this.alt)" shape="CIRCLE" alt="I-195 @ 114" coords="514,250,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(80, this.alt)" shape="CIRCLE" alt="Route 6 @ Glenbridge Ave." coords="187,207,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(81, this.alt)" shape="CIRCLE" alt="Route 6 @ Hartford Ave." coords="221,231,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(79, this.alt)" shape="CIRCLE" alt="I-295 S @ Route 6"  coords="13,184,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(78, this.alt)" shape="CIRCLE" alt="I-295 N @ Route 6" coords="14,224,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(86, this.alt)" shape="CIRCLE" alt="Rte 5 @ Phenix Ave" coords="145,386,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(85, this.alt)" shape="CIRCLE" alt="Rte 6 @ Atwood" coords="69,235,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(89, this.alt)" shape="CIRCLE" alt="Rte 146 S @ Branch" coords="292,77,10" href="#">
+
+<!--South County-->
+<area onclick="clearTimeout(timeOut);changeCam(96, this.alt)" shape="CIRCLE" alt="Route 4 @ Oak Hill Rd." coords="433,93,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(60, this.alt)" shape="CIRCLE" alt="I-95 NB @ CT state line DMS" coords="91,269,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(44, this.alt)" shape="CIRCLE" alt="Jamestown Bridge (N. Kingstown)" coords="515,142,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(45, this.alt)" shape="CIRCLE" alt="Jamestown Bridge (Jamestown)" coords="545,147,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(47, this.alt)" shape="CIRCLE" alt="DMS Rte 4" coords="422,51,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(27, this.alt)" shape="CIRCLE" alt="Route 1 @ Route 403" coords="474,30,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(36, this.alt)" shape="CIRCLE" alt="Route 4 @ West Allenton Rd" coords="448,118,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(34, this.alt)" shape="CIRCLE" alt="Rte 1 @ Rte 138 (S. Kingstown)" coords="469,196,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(35, this.alt)" shape="CIRCLE" alt="Route 1 @ Route 4" coords="458,126,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(32, this.alt)" shape="CIRCLE" alt="Route 1 @ Route 78" coords="75,401,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(41, this.alt)" shape="CIRCLE" alt="Route 1 @ Saugatucket Rd." coords="463,237,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(33, this.alt)" shape="CIRCLE" alt="Government Center" coords="442,280,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(70, this.alt)" shape="CIRCLE" alt="Route 138 @ Route 1A" coords="504,145,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(61, this.alt)" shape="CIRCLE" alt="I-95 SB @ Exit 5 DMS" coords="247,24,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(58, this.alt)" shape="CIRCLE" alt="Rte 1 @ Rte 138 (N. Kingstown)" coords="459,141,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(95, this.alt)" shape="CIRCLE" alt="Rte 1 @ Camp Fuller Rd" coords="390,311,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(98, this.alt)" shape="CIRCLE" alt="95 S @ Exit 1" coords="101,262,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(99, this.alt)" shape="CIRCLE" alt="95 S @ Exit 2" coords="162,207,10" href="#">
+<area onclick="clearTimeout(timeOut);changeCam(101, this.alt)" shape="CIRCLE" alt="95 S @ Exit 4" coords="220,129,10" href="#">

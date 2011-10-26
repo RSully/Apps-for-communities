@@ -1,0 +1,13 @@
+<area onclick="clearTimeout(timeOut);changeCam(
+
+, this.alt)" shape="CIRCLE" alt="
+
+(" coords=")(\d+)(,)(\d+)(,)(\d+)(" href=")(.)(">)
+(" coords=")( ).*?(\\d+)(,)(\\d+)(,)(\\d+)(" href=")(.)(")(>)
+
+(<!--)(.*?)(-->)
+
+Allens Ave and DPW -> Allens Ave. and Ernest St.
+
+RT, Rte, Rt. -> Route
+@ -> And
